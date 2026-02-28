@@ -1,2 +1,2 @@
-# pfc-squares
+# pfc-uclbracket
 Superbowl Squares 
